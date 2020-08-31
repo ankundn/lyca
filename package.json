@@ -8,15 +8,56 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-community/masked-view": "^0.1.6",
+    "@react-navigation/bottom-tabs": "^5.5.1",
+    "@react-navigation/compat": "^5.1.25",
+    "@react-navigation/drawer": "^5.8.1",
+    "@react-navigation/native": "^5.5.0",
+    "@react-navigation/stack": "^5.4.1",
     "expo": "~37.0.3",
+    "galio-framework": "^0.6.3",
+    "prop-types": "^15.7.2",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
-    "react-native-web": "~0.11.7"
+    "react-native-country-code-telephone-input": "0.0.9",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-image-picker": "^2.3.1",
+    "react-native-keyboard-aware-scroll-view": "^0.9.1",
+    "react-native-modal-dropdown": "^0.7.0",
+    "react-native-modal-picker": "0.0.16",
+    "react-native-phone-input": "^0.2.4",
+    "react-native-reanimated": "^1.7.1",
+    "react-native-responsive-screen": "^1.4.1",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.2.0",
+    "react-native-smooth-pincode-input": "^1.0.9",
+    "react-native-web": "~0.11.7",
+    "react-navigation": "^4.3.9",
+    "react-navigation-stack": "^2.5.1",
+    "rn-toggle-switch": "^1.0.2"
   },
   "devDependencies": {
     "babel-preset-expo": "~8.1.0",
     "@babel/core": "^7.8.6"
   },
+  "keywords": [
+    "argon react native",
+    "argon design system",
+    "argon app react native",
+    "argon iOS",
+    "react native iOS",
+    "creative tim",
+    "argon Android",
+    "react native ui kit",
+    "react native expo",
+    "freebie",
+    "react native argon design",
+    "react native galio",
+    "galio argon free",
+    "galio react native free app",
+    "argon expo react native",
+    "react native ui template"
+  ],
   "private": true
 }
